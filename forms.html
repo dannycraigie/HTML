@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <form method="get" action+"./search.html">
+        <h3>GET form</h3>
+        <input name="query" type="text">
+        <button type="submit">GET</button>
+    </form>
+    <for method="post" action+"mailform.php">
+        <h4>mail form</h4>
+        <input name="customer" type="text">
+        <input name="email_address" type="text">
+        <button type="submit">SEND</button>
+    </form>
+    <hr/>
+    <form>
+        <h1>More inputs</h1>
+        <input type="checkbox" name="check1" value="1"/> 1
+        <input type="checkbox" name="check2" value="2"/> 2
+    </form>
+    <fieldset>
+        <legend>Question 1:</legend>
+        <input type="radio" name="choice" value="a"/> a 
+        <input type="radio" name="choice" value="b"/> b 
+        <input type="radio" name="choice" value="c"/> c 
+    </fieldset>
+    <input type="color" name="flower">
+    <input type="date" type="datetime">
+</body>    
+</html>
