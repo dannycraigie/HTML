@@ -1,7 +1,41 @@
 body {
-    background-color: darkseagreen;
+    background-color: rgb(219, 219, 201);
+    text-indent: 25px;
+    text-decoration-color: rgb(34, 69, 75);
+    para
 }
+
 h1 {
-    color: magenta;
-    margin-left: 30px;
+    color: rgb(34, 69, 75);
+    margin-left: 25%;
 }
+
+h3 {
+    color: rgb(34, 69, 75);
+    margin-left: 25px;
+}
+
+a {
+    margin-left: 25px;
+    color: rgb(34, 69, 75);
+}
+
+div {
+    width: 150px;
+    word-wrap: break-word;
+}
+
+p {
+    width: 1250px;
+    word-wrap: break-word;
+}
+
+hr {
+    width:50%;
+    color: rgb rgb(6, 27, 6);
+}
+
+ul {
+    margin-left: 25px;
+}
+
