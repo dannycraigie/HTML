@@ -203,6 +203,31 @@
 //    console.log(`You are out of range at ${age}`);
 //}
 
-let age = 49;
-age <= 50 ? console.log(`You are under 50 at ${age}`) : console.log(`You are over 50 at ${age}`);
+//let age = 49;
+//age <= 50 ? console.log(`You are under 50 at ${age}`) : console.log(`You are over 50 at ${age}`);
+
+
+//let i = 0;
+//
+//while (i < 100) {
+//    i++;
+//    console.log(`i = ${i}`);
+//   if (i % 3 == 0) 
+//    console.log("Buzz");    
+//   else if (i % 3 == 0) and (i % 5 == 0) 
+//    console.log("Fizzbuzz");
+//}   
+
+//let beer = 100;
+//
+//while (beer >= 2) {
+//    beer--;
+//    console.log(`${beer} bottles of beer on the wall, ${beer} bottles of beer.
+//    Take one down and pass it around, ${beer-1} bottles of beer on the wall. `);
+//
+//}   
+//console.log(`No more bottles of beer on the wall, No more bottles of beer.
+//Go to the store and buy some more, 99 bottles of beer on the wall.`)
+
+
 
